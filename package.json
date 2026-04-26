@@ -2,7 +2,7 @@
   "name": "o-du-dai-phat-nextjs",
   "private": true,
   "version": "1.0.0",
-  "packageManager": "npm@10.5.0",
+  "packageManager": "pnpm@9.12.3",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
